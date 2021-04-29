@@ -1,0 +1,1 @@
+- Make sure BSP normals are correct where they can be fixed

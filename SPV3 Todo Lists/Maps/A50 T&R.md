@@ -1,0 +1,5 @@
+- Check if cliff treeshrubs use Jakey's reworked UVs
+- Decorate the cliffs
+- Add non-collideable desert shrubs. 
+	- Sparse
+	- Short to not decrease visibility of dropped items

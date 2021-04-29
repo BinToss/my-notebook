@@ -1,0 +1,4 @@
+- It would be easier to work with OS if its code was more heavily annotated/commented
+	-  e.g. this thing is for this, it does that, and it's used by these other things, et cetera.
+	- Some branches remove helpful explanations. I should restore them if they are still accurate.
+- I need to learn Enums and Reflexives.

@@ -1,0 +1,4 @@
+- Redecorate
+	- more foliage
+	- detail objects
+- Check boulder permutations

@@ -1,0 +1,9 @@
+- Visual Leak Detector
+	- Just get rid of it
+		- Compare against the commit which added it
+		- Then inspect later commits which may have added additional components
+- Boost
+	- It's awful
+	- Worry about it later
+- XP support
+	- FTS

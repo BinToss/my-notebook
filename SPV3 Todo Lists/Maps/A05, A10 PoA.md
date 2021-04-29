@@ -1,0 +1,3 @@
+- Cryopods suck
+	- UV is mostly ok, but texture patterns don't meet up at seams.
+	- Texture compression is garbage in the dark part on top.

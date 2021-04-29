@@ -1,0 +1,1 @@
+[Use X-Arcade™ as a Windows Joystick/Gamepad Controller - Xinput/Dinput](https://support.xgaming.com/support/solutions/articles/12000003227-use-x-arcade-as-a-windows-joystick-gamepad-controller-xinput-dinput)

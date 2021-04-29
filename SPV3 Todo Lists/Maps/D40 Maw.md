@@ -1,0 +1,3 @@
+- Optimize warthog run scripts to make room for other things
+- Create a global float value that decays over time tied to BSP lights. Simulates the ship's lights' auxiliary power decreasing.
+	- If the player realizes what's happening, they'll know to move through the level faster while there's still ambient light available.

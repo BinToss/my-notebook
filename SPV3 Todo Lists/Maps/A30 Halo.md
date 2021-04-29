@@ -1,0 +1,8 @@
+- The hills have polygons…and seams.
+	- May have been changed from beta
+- Talk with Jazz (or was it SOI?) about Prisoner ponds
+	- Generate unique cubemaps for water reflections
+- Add more decorations to the cliffs.
+	- Hanging ivy
+	- Grassy rocks sticking out of cliff faces
+	- More tree decal variations
